@@ -1,0 +1,23 @@
+  "name": "Cyclone",
+
+  "description": "Cyclone bot is a moderation bot",
+
+  "version": "0.1.0",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
